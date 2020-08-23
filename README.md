@@ -20,3 +20,5 @@ python manage.py runserver
 ## Preview:
 
 ![Preview Image](https://github.com/gabrielmayers/todoapp/blob/master/Preview.png)
+
+Credits: https://www.youtube.com/watch?v=4RWFvXDUmjo
