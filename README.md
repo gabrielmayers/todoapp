@@ -16,3 +16,7 @@ python manage.py runserver
 
 * Python 2.7.17 or Higher
 * Django 3.0 or Higher
+
+## Preview:
+
+![Preview Image](https://github.com/gabrielmayers/todoapp/blob/master/Preview.png)
