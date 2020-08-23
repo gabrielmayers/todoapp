@@ -7,6 +7,7 @@ To Do Web App Using Django!
 ```
 git clone https://github.com/gabrielmayers/todoapp.git
 cd todoapp
+pip install -r requirements.txt
 python manage.py runserver
 
 ```
